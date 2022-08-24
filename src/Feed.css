@@ -1,0 +1,27 @@
+.feed {
+    display: flex; 
+    overflow-x: scroll ;
+    overflow-y: scroll;
+
+
+}
+
+img {
+    display: flex;
+    height: 600px;
+    width: 350px;
+    border-radius: 12px;
+
+
+}
+
+iframe {
+    display: flex;
+    height: 600px;
+    width: 350px;
+    background-color: none;
+    border-radius: 12px;
+
+
+
+}

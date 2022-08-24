@@ -1,0 +1,37 @@
+.techfeed {
+    display: flex; 
+    overflow-y: hidden;
+    overflow-x: scroll;
+	width: 100%;
+
+    
+
+
+}
+	
+	
+
+
+
+
+.techimage {
+    display: flex;
+    height: 100px;
+    width: fit-content;
+   
+  ;
+   
+
+
+}
+
+iframe {
+    display: flex;
+    height: 600px;
+    width: 350px;
+    background-color: none;
+    border-radius: 12px;
+
+
+
+}

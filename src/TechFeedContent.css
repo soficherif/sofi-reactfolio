@@ -1,0 +1,24 @@
+.TechFeedstyle {
+    display: flex;
+    height: 400px;
+    width: 100%;
+
+
+   
+}
+
+.TechFeedc {
+    display: flex; 
+    align-items: flex-start;
+    justify-content: center;
+    margin-left: 10px;
+    margin-right: 10px;
+    width: fit-content;
+    height: 400px;
+    margin-top: 20px;
+
+ 
+
+
+
+}
