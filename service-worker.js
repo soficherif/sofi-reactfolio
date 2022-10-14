@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/sofi-reactfolio/precache-manifest.8a166b7f6bb5137247c076ac45176144.js"
+  "/sofi-reactfolio/precache-manifest.1ce3469fbe4f2aa3259ed0411f68aef6.js"
 );
 
 workbox.clientsClaim();

@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "8e54c98c48b0b3071868",
-    "url": "/sofi-reactfolio/static/css/main.6a1e3e3f.chunk.css"
+    "revision": "8760f3b0f0fc9a807621",
+    "url": "/sofi-reactfolio/static/css/main.fb0f732e.chunk.css"
   },
   {
-    "revision": "8e54c98c48b0b3071868",
-    "url": "/sofi-reactfolio/static/js/main.7bc5a1bf.chunk.js"
+    "revision": "8760f3b0f0fc9a807621",
+    "url": "/sofi-reactfolio/static/js/main.4f65b36b.chunk.js"
   },
   {
     "revision": "0bcca09b810463d3ae14",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/sofi-reactfolio/static/media/logo.06e73328.svg"
   },
   {
-    "revision": "cfbcd65146d764ba58c5ec3f31f27aa4",
+    "revision": "04c28a59db6101248e6883b7f58b369f",
     "url": "/sofi-reactfolio/index.html"
   }
 ];

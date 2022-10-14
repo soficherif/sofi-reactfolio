@@ -1,7 +1,7 @@
 {
-  "main.css": "/sofi-reactfolio/static/css/main.6a1e3e3f.chunk.css",
-  "main.js": "/sofi-reactfolio/static/js/main.7bc5a1bf.chunk.js",
-  "main.js.map": "/sofi-reactfolio/static/js/main.7bc5a1bf.chunk.js.map",
+  "main.css": "/sofi-reactfolio/static/css/main.fb0f732e.chunk.css",
+  "main.js": "/sofi-reactfolio/static/js/main.4f65b36b.chunk.js",
+  "main.js.map": "/sofi-reactfolio/static/js/main.4f65b36b.chunk.js.map",
   "runtime~main.js": "/sofi-reactfolio/static/js/runtime~main.c94494d4.js",
   "runtime~main.js.map": "/sofi-reactfolio/static/js/runtime~main.c94494d4.js.map",
   "static/js/2.cb83ed94.chunk.js": "/sofi-reactfolio/static/js/2.cb83ed94.chunk.js",
@@ -9,8 +9,8 @@
   "static/js/3.79a04dbb.chunk.js": "/sofi-reactfolio/static/js/3.79a04dbb.chunk.js",
   "static/js/3.79a04dbb.chunk.js.map": "/sofi-reactfolio/static/js/3.79a04dbb.chunk.js.map",
   "index.html": "/sofi-reactfolio/index.html",
-  "precache-manifest.8a166b7f6bb5137247c076ac45176144.js": "/sofi-reactfolio/precache-manifest.8a166b7f6bb5137247c076ac45176144.js",
+  "precache-manifest.1ce3469fbe4f2aa3259ed0411f68aef6.js": "/sofi-reactfolio/precache-manifest.1ce3469fbe4f2aa3259ed0411f68aef6.js",
   "service-worker.js": "/sofi-reactfolio/service-worker.js",
-  "static/css/main.6a1e3e3f.chunk.css.map": "/sofi-reactfolio/static/css/main.6a1e3e3f.chunk.css.map",
+  "static/css/main.fb0f732e.chunk.css.map": "/sofi-reactfolio/static/css/main.fb0f732e.chunk.css.map",
   "static/media/logo.svg": "/sofi-reactfolio/static/media/logo.06e73328.svg"
 }
